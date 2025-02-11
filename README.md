@@ -2,10 +2,11 @@
 - 👀 I’m interested in coding and games
 - Languages that I'm learning 🎓
   
--Java
--C#
--Javascrip
--HTML
+- Java
+- C#
+- Javascrip
+- HTML
+  
 - 🌱 I’m currently learning coding
 - 💞️ I’m looking to collaborate on anywere (unless you need to pay for it)
 - 📫 How to reach me on discord I'm miguel1143
