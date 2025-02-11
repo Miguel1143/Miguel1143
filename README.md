@@ -1,13 +1,14 @@
 - 👋 Hi, I’m @Miguel1143
 - 👀 I’m interested in coding and games
 - Languages that I'm learning 🎓
-Java;
+  
+Java
 
-C#;
+C#
 
-Javascrip;
+Javascrip
 
-HTML;
+HTML
 - 🌱 I’m currently learning coding
 - 💞️ I’m looking to collaborate on anywere (unless you need to pay for it)
 - 📫 How to reach me on discord I'm miguel1143
