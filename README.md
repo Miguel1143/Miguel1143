@@ -3,11 +3,8 @@
 - Languages that I'm learning 🎓
   
 Java
-
 C#
-
 Javascrip
-
 HTML
 - 🌱 I’m currently learning coding
 - 💞️ I’m looking to collaborate on anywere (unless you need to pay for it)
