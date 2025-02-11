@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Miguel1143
 - 👀 I’m interested in coding and games
 --------------
-- Languages that I'm learning 🎓
+**Languages that I'm learning 🎓**
 
 - Java
 - C#
